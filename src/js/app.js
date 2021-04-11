@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "grab": {
           "distance": 400,
           "line_linked": {
-            "opacity": 1
+            "opacity": 0
           }
         },
         "bubble": {
