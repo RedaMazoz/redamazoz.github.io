@@ -4680,7 +4680,8 @@ sup, sub {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  filter: contrast(110%) brightness(130%);
+  /*filter: contrast(110%) brightness(130%);*/
+  /*opacity: 0.5*/
 }
 #particles-js .particles-js-canvas-el {
   width: 100% !important;
