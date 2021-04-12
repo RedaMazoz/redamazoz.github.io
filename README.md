@@ -1,3 +1,3 @@
 # Portfolio
 
-![](./particle.jpg)
+![](./portfolio.jpg)
