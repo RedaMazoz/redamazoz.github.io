@@ -4672,7 +4672,7 @@ sup, sub {
   }
 }
 #particles-js {
-  background-image: url("./f.png");
+  background-image: url("f.png");
   display: flex;
   vertical-align: bottom;
   width: 100%;
