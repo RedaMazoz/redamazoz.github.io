@@ -4703,7 +4703,7 @@ sup, sub {
   font-size: 50px;
   display: block;
   line-height: 1;
-  color: #FFF;
+  //color: #FFF;
 }
 @media only screen and (min-width: 550px) {
   .header .site-title {
@@ -4715,7 +4715,7 @@ sup, sub {
   font-size: 20px;
   display: block;
   line-height: 1;
-  color: #FFF;
+  //color: #FFF;
   margin-top: 10px;
 }
 @media only screen and (min-width: 550px) {
@@ -4961,7 +4961,7 @@ sup, sub {
 }
 
 
-h1.false-background {
+.false-background {
     border-radius: 35px;
     background: rgba(255,255, 255, 0.09);
 }
