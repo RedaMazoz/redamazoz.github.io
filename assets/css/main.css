@@ -4703,7 +4703,7 @@ sup, sub {
   font-size: 50px;
   display: block;
   line-height: 1;
-  //color: #FFF;
+  color: inherit;
 }
 @media only screen and (min-width: 550px) {
   .header .site-title {
