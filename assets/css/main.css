@@ -4959,3 +4959,9 @@ sup, sub {
 .footer a:active {
   color: #4B5664;
 }
+
+
+h1.false-background {
+    border-radius: 35px;
+    background: rgba(255,255, 255, 0.09);
+}
