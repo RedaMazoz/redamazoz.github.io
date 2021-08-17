@@ -4917,7 +4917,7 @@ sup, sub {
   padding: 5px;
   color: url("../img/f.png");
   background-color: transparent;
-  border: 1px solid url("../img/f.png");
+  border: 1px solid #1a222c;
   border-radius: 10px;
   text-align: center;
   outline: none;
@@ -4939,7 +4939,7 @@ sup, sub {
 }
 
 .footer {
-  background: #1a222;
+  background: #1a222c;
   padding: 10px 0;
   margin-top: 100px;
   text-align: center;
