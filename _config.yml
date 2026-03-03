@@ -8,7 +8,7 @@ description: A blog about Reda Mazoz Projects and Resume
 username: Reda Mazoz
 user_description: Passionate about Maths, Gameplay Developer and Desktop Apps Maker.
 user_title: Gameplay Developer
-email: redamazoz21@gmail.com
+email: reda.mazoz@outlook.com
 #twitter_username: lorem_ipsum
 github_username:  Tensadev
 fb_username:  Reda Mazoz
@@ -18,3 +18,4 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+
